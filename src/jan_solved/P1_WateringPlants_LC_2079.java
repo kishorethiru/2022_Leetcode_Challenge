@@ -1,7 +1,7 @@
 /**
  * 
  */
-package jan.solved;
+package jan_solved;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
