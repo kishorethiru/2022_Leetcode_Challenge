@@ -10,7 +10,6 @@ public class P7_Find_N_Unique_Integers_LC_1304 {
 	  
 	  Problem Statement
 	   Given an integer n, return any array containing n unique integers such that they add up to 0.
-	   	*/
 
 /*
    1. 
