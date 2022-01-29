@@ -5,8 +5,8 @@ import org.junit.Assert;
 import org.junit.Test;
 public class P7_Find_N_Unique_Integers_LC_1304 {
 	/*
-	 * Leet Code Link : https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
-	 * Leet Code Problem Number : 1304. Find N Unique Integers Sum up to Zero
+	 * LeetCode Link : https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+	 * LeetCode Problem Number : 1304. Find N Unique Integers Sum up to Zero
 	  
 	  Problem Statement
 	   Given an integer n, return any array containing n unique integers such that they add up to 0.
