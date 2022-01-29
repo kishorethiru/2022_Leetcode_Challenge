@@ -62,7 +62,7 @@ public void testData03() { // Edge
  * return retVal
  * 
  * Time : O(n/2)
- * Space : O(n)
+ * Space : O(n).
  */
 
 	
