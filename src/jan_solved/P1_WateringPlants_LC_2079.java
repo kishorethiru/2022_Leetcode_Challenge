@@ -3,8 +3,9 @@
  */
 package jan_solved;
 
+
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 /**
  * @author Kishore

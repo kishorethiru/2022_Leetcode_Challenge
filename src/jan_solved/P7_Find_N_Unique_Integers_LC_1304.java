@@ -50,14 +50,14 @@ public void testData03() { // Edge
 
 
 /* Pseudocode : Single Pass
- * Create a array of size n 
+ * Create an array of size n
  * Create temp and index variable
  * Create valToAdd and a break variable to break
  * Iterate till temp is > than break variable
  *   Add the valToAdd at the index and increment index
  *   Negate valToAdd and add to index and increment index and valToAdd
  *   Increment temp by 2
- * if the n is add for the last val add 0 to the index
+ * if the n is added for the last val add 0 to the index
  * return retVal
  * 
  * Time : O(n/2)

@@ -1,6 +1,3 @@
-/**
- * 
- */
 package jan_solved;
 
 import java.util.ArrayList;

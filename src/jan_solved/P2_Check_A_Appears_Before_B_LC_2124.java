@@ -1,6 +1,3 @@
-/**
- * 
- */
 package jan_solved;
 
 import org.junit.Assert;
@@ -78,6 +75,4 @@ public class P2_Check_A_Appears_Before_B_LC_2124 {
 		while(index < s.length()) if(s.charAt(index++) == 'a') return false;
 		return true;
 	}
-
-	
 }

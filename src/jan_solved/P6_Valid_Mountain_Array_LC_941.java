@@ -1,7 +1,7 @@
 package jan_solved;
 
 import org.junit.Assert;
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
 public class P6_Valid_Mountain_Array_LC_941 {
 	
