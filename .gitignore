@@ -2,3 +2,6 @@
 /.settings/
 .project
 /.classpath/
+/out/
+/.idea/
+/2022_Leetcode_Challenge.iml
